@@ -75,19 +75,19 @@ const Footer = () => {
               <ListItemIcon sx={{ color: '#ccc', minWidth: 32 }}>
                 <PhoneIcon />
               </ListItemIcon>
-              <ListItemText primary="+91 9874455321" primaryTypographyProps={{ color: '#ccc' }} />
+              <ListItemText primary="+91 7305793108" primaryTypographyProps={{ color: '#ccc' }} />
             </ListItem>
             <ListItem sx={{ p: 0 }}>
               <ListItemIcon sx={{ color: '#ccc', minWidth: 32 }}>
                 <EmailIcon />
               </ListItemIcon>
-              <ListItemText primary="buddha mail ID" primaryTypographyProps={{ color: '#ccc' }} />
+              <ListItemText primary="buddhaconstructionsltd@gmail.com" primaryTypographyProps={{ color: '#ccc' }} />
             </ListItem>
             <ListItem sx={{ p: 0 }}>
               <ListItemIcon sx={{ color: '#ccc', minWidth: 32 }}>
                 <LocationOnIcon />
               </ListItemIcon>
-              <ListItemText primary="buddha company address" primaryTypographyProps={{ color: '#ccc' }} />
+              <ListItemText primary="Buddha constructions Pvt. Ltd. , second floor, shop no. 2, Velochery main road, Rajakilpakkam Kamarapuram, chengalpattu - 600073, chennai ,Tamil Nadu" primaryTypographyProps={{ color: '#ccc' }} />
             </ListItem>
           </List>
         </Box>
