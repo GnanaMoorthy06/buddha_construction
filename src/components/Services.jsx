@@ -13,7 +13,7 @@ function Services() {
     },
     {
       title: "Turfs",
-      img: "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
+      img: "https://images.unsplash.com/photo-1574629810360-7efbbe195018",
     },
   ];
 
