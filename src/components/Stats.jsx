@@ -3,8 +3,8 @@ import { Container, Box, Paper, Typography } from "@mui/material";
 function Stats() {
 
   const stats = [
-    { number: "20+", label: "Projects Delivered" },
-    { number: "20+", label: "Projects Ongoing" },
+    { number: "65+", label: "Projects Delivered" },
+    { number: "12+", label: "Projects Ongoing" },
     { number: "100%", label: "Client Satisfaction" }
   ];
 
