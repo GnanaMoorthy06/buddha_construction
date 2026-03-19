@@ -87,7 +87,7 @@ const Footer = () => {
               <ListItemIcon sx={{ color: '#ccc', minWidth: 32 }}>
                 <LocationOnIcon />
               </ListItemIcon>
-              <ListItemText primary="Buddha constructions Pvt. Ltd. , second floor, shop no. 2, Velochery main road, Rajakilpakkam Kamarapuram, chengalpattu - 600073, chennai ,Tamil Nadu" primaryTypographyProps={{ color: '#ccc' }} />
+              <ListItemText primary="Buddha constructions Pvt. Ltd. , second floor, shop no. 2, Velachery main road, Rajakilpakkam Kamarapuram, chengalpattu - 600073, chennai ,Tamil Nadu" primaryTypographyProps={{ color: '#ccc' }} />
             </ListItem>
           </List>
         </Box>
